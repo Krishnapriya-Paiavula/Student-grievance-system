@@ -11,7 +11,7 @@ This is a web-based Student Grievance System that allows students to submit comp
 -  Mark complaints as resolved
 -  Email notifications (if configured)
 
-## Tech Stack
+# Tech Stack
 
 - **Frontend:** HTML, CSS, JavaScript
 - **Backend:** PHP
